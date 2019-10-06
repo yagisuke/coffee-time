@@ -1,13 +1,13 @@
 # String
 
 ## 文字連結
-jsの場合
+jsの場合、
 ```
 var score = 80;
 alert("score: " + score);
 ```
 
-CoffeeScriptの場合
+CoffeeScriptの場合、
 ```
 score = 80
 alert "score: #{score}"
@@ -17,7 +17,7 @@ alert "score: #{score * 10}"
 ```
 
 ## 複数行
-CoffeeScriptの場合
+CoffeeScriptの場合、
 ```
 str = "
   This is a
@@ -26,7 +26,7 @@ str = "
 ```
 
 ## heredoc
-CoffeeScriptの場合
+CoffeeScriptの場合、
 ```
 html = """
   <div id="mail">HELLO.</div>

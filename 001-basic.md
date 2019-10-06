@@ -18,7 +18,7 @@
 3. {}  インデントで表現
 4. ()  曖昧性がない場合は不要
 
-jsで書いた場合
+jsの場合、
 ```
 var score = 82;
 if (score > 80) {
@@ -26,7 +26,7 @@ if (score > 80) {
 }
 ```
 
-CoffeeScriptで書いた場合
+CoffeeScriptの場合、
 ```
 score = 82
 if score > 80
@@ -34,7 +34,7 @@ if score > 80
 ```
 
 ## jsを埋め込む方法
-あまり使わない。
+あまり使わないけど、
 ```
 `alert("OK");`
 ```
