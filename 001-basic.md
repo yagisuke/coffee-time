@@ -30,7 +30,7 @@ CoffeeScriptで書いた場合
 ```
 score = 82
 if score > 80
-  alert("82")
+  alert "OK"
 ```
 
 ## jsを埋め込む方法
