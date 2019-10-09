@@ -4,4 +4,4 @@
 
 ## CoffeeScriptを試す
 
-Markdown内にはCoffeeScriptのサンプルコードがちりばめられています。ぜひ [CoffeeScript](https://dotinstall.com/lessons/basic_coffeescript_v2) のplaygroundで試してみてください。
+Markdown内にはCoffeeScriptのサンプルコードがちりばめられています。ぜひ [CoffeeScript](https://coffeescript.org/#try) のplaygroundで試してみてください。
